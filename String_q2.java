@@ -3,7 +3,7 @@
 //  If the inputs are “Mark” and “Kate” then the output should be “markate”. 
 // (The output should be in lowercase)
 import java.util.Scanner;
-class concat2Strings
+class String_q2
 {
 	public static void main(String agrs[])
 	{
